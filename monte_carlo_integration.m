@@ -1,5 +1,5 @@
 clear; clc; close all;
-iters = 10000000; %evaling at 1 million x points in the interval 0,1
+iters = 10000000; %evaling at 10 million x points in the interval 0,1
 functevals = zeros(1,iters);
 low = 0;
 upp = 1;
